@@ -33,3 +33,72 @@ Silver Companion es un proyecto diseñado para proporcionar soluciones innovador
   <!-- Contenido del sitio -->
 </body>
 </html>
+```
+## Estilos CSS
+
+Los estilos para el proyecto se encuentran en `estilos/estilo.css`. Asegúrate de revisar las clases y estilos aplicados para entender cómo se estructuran y presentan los elementos en la página web.
+
+## Funcionalidad JavaScript
+
+El archivo `js/main.js` contiene el código JavaScript necesario para la funcionalidad interactiva, como la visualización del formulario de contacto y otras características dinámicas de la página.
+
+## Instalación
+
+1. Clona el repositorio:
+
+    ```bash
+    git clone https://github.com/tu-usuario/silver-companion.git
+    ```
+
+2. Navega al directorio del proyecto:
+
+    ```bash
+    cd silver-companion
+    ```
+
+3. Abre el archivo `index.html` en tu navegador para ver la página en acción.
+
+## Contribución
+
+Si deseas contribuir a este proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tus cambios:
+
+    ```bash
+    git checkout -b feature/nueva-funcionalidad
+    ```
+
+3. Realiza tus cambios y haz un commit:
+
+    ```bash
+    git commit -am 'Añadir nueva funcionalidad'
+    ```
+
+4. Empuja tus cambios a tu repositorio:
+
+    ```bash
+    git push origin feature/nueva-funcionalidad
+    ```
+
+5. Abre un pull request en el repositorio original.
+
+## Contacto
+
+Para más información, contacta a:
+
+- **Correo electrónico:** silvercompanionspain@gmail.com
+- **Teléfono:** 910 123 456
+- **Dirección:** Calle Juan Grande, 1, 05003 Ávila
+
+## Redes Sociales
+
+- [Instagram](https://www.instagram.com/silvercompanionspain/)
+- [LinkedIn](https://www.linkedin.com/in/silver-companion-212543265/)
+- [Facebook](https://www.facebook.com/profile.php?id=100090161199917&is_tour_dismissed=true)
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+
